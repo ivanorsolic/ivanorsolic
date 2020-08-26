@@ -2,6 +2,8 @@
 
 I'm Ivan, and I'm a freshly graduated MSc in Information and Software Engineering, currently looking for work!
 
+![](https://github.com/ivanorsolic/ivanorsolic/blob/master/preview-4000kbps-optimized.gif?raw=true)
+
 The GIF above shows some of my work, and if you're interested in seeing more, check out:
 - My [**self-driving RC car**](https://ori.codes) **website**, with 👨‍💻 codez, 🏎 video demos, 🐱‍💻 kernel hacks, 👨‍🔧 schematics, 3D models and more!
 - My [**hardware hacking and infosec** project writeups and tutorials](https://ivanorsolic.github.io) 
