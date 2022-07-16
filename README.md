@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-I'm Ivan, and I'm a freshly graduated MSc in Information and Software Engineering, currently looking for work!
+I'm an aspiring research engineer learning through doing machine learning, software engineering, robotics and embedded systems.
 
-![](https://github.com/ivanorsolic/ivanorsolic/blob/master/preview-4000kbps-optimized.gif?raw=true)
-
-The GIF above shows some of my work, and if you're interested in seeing more, check out:
-- My [**self-driving RC car**](https://ori.codes) **website**, with 👨‍💻 codez, 🏎 video demos, 🐱‍💻 kernel hacks, 👨‍🔧 schematics, 3D models and more!
-- My [**hardware hacking and infosec** project writeups and tutorials](https://ivanorsolic.github.io) 
-- And any of my repos that may interest you!
-
-You can also find [**my CV here**](https://drive.google.com/file/d/1OxfTifqPw3X5TqwcQMmdwOCJMiSAm1ED/view?usp=sharing) 👨‍🎓 and [**my LinkedIn here**](https://www.linkedin.com/in/ivanorsolic/) 🤵, if you're interested in that!
+Check out some of my most recent projects:
+- [WorldStrat](https://github.com/worldstrat/worldstrat): a satellite imagery dataset covering the entire 🌍, comes with a pre-trained multi-frame super-resolution model 📸.
+- [ori.codes](https://ori.codes): a self-driving RC car 🏎️ .
+- [Predicting mice behaviour using spiking neural data 🐭🧠](https://ivanorsolic.com/project/neuromatch).
+-  
+You can info about me, like my CV, projects, LinkedIn at [ivanorsolic.com](https://ivanorsolic.com), if you're interested in that!
 
 
 <p align="center">
