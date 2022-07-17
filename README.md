@@ -7,7 +7,7 @@ Check out some of my most recent projects:
 - [ori.codes](https://ori.codes): a self-driving RC car 🏎️
 - [Predicting mice behaviour using spiking neural data 🐭🧠](https://ivanorsolic.com/project/neuromatch)
 
-You can info about me, like my CV, projects, LinkedIn at [ivanorsolic.com](https://ivanorsolic.com), if you're interested in that!
+You can find info about me, like my CV, projects, LinkedIn at [ivanorsolic.com](https://ivanorsolic.com), if you're interested in that!
 
 
 <p align="center">
