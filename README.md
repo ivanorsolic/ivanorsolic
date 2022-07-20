@@ -21,8 +21,5 @@ You can find info about me, like my CV, projects, LinkedIn at [ivanorsolic.com](
     <a href="https://ori.codes" alt="Ori Codes Web"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
     
   </p>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanorsolic&show_icons=true&theme=cobalt"/>
-  </p>
 </p>
 
