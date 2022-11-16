@@ -3,7 +3,7 @@
 I'm a self-driven and highly motivated machine learning research engineer looking for difficult and impactful problems to work on. Passionate about discovering the right questions behind problems as much as implementing practical answers to them.
 
 Check out some of my most recent projects:
-- [WorldStrat](https://github.com/worldstrat/worldstrat): a satellite imagery dataset covering the entire 🌍, comes with a pre-trained multi-frame super-resolution model 📸
+- [WorldStrat](https://worldstrat.github.io): a satellite imagery dataset covering the entire 🌍, comes with a pre-trained multi-frame super-resolution model 📸
 - [ori.codes](https://ori.codes): a self-driving RC car 🏎️
 - [Predicting mice behaviour using spiking neural data 🐭🧠](https://ivanorsolic.com/project/neuromatch)
 
