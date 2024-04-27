@@ -4,10 +4,10 @@ I'm a self-driven and highly motivated machine learning research engineer lookin
 
 Check out some of my most recent projects:
 - [WorldStrat](https://worldstrat.github.io): a satellite imagery dataset covering the entire 🌍, comes with a pre-trained multi-frame super-resolution model 📸
-- [ori.codes](https://ori.codes): a self-driving RC car 🏎️
-- [Predicting mice behaviour using spiking neural data 🐭🧠](https://ivanorsolic.com/project/neuromatch)
+- [rccar.orsolic.tech](https://rccar.orsolic.tech): a self-driving RC car 🏎️
+- [Predicting mice behaviour using spiking neural data 🐭🧠](https://orsolic.tech/project/neuromatch)
 
-You can find info about me, like my CV, projects, LinkedIn at [ivanorsolic.com](https://ivanorsolic.com), if you're interested in that!
+You can find info about me, like my CV, projects, LinkedIn at [orsolic.tech](https://orsolic.tech), if you're interested in that!
 
 
 <p align="center">
@@ -18,7 +18,7 @@ You can find info about me, like my CV, projects, LinkedIn at [ivanorsolic.com](
     <a href="https://twitter.com/ivanorsolic" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/ivanorsolic/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:ivanorsolic@gmail.com" alt="E-mail"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://ori.codes" alt="Ori Codes Web"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+    <a href="https://rccar.orsolic.tech" alt="RC Car Web"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
     
   </p>
 </p>
