@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a self-driven and highly motivated machine learning research engineer looking for difficult and impactful problems to work on. Passionate about discovering the right questions behind problems as much as implementing practical answers to them.
+I'm a ML Researcher with a Master's degree in SWE, working on everything from self-driving RC cars, taking 📸 of the planet 🌍 with satellites 🛰️, to reading a 🐭 mind and predicting what its going to do using ML!
 
 Check out some of my most recent projects:
 - [WorldStrat](https://worldstrat.github.io): a satellite imagery dataset covering the entire 🌍, comes with a pre-trained multi-frame super-resolution model 📸
