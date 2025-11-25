@@ -4,10 +4,10 @@ I'm a ML Researcher with a Master's degree in SWE, working on everything from se
 
 Check out some of my most recent projects:
 - [WorldStrat](https://worldstrat.github.io): a satellite imagery dataset covering the entire 🌍, comes with a pre-trained multi-frame super-resolution model 📸
-- [rccar.orsolic.tech](https://rccar.orsolic.tech): a self-driving RC car 🏎️
-- [Predicting mice behaviour using spiking neural data 🐭🧠](https://orsolic.tech/project/neuromatch)
+- [rccar.orsolic.tech](https://rccar.ivanorsolic.com): a self-driving RC car 🏎️
+- [Predicting mice behaviour using spiking neural data 🐭🧠](https://ivanorsolic.com/project/neuromatch)
 
-You can find info about me, like my CV, projects, LinkedIn at [orsolic.tech](https://orsolic.tech), if you're interested in that!
+You can find info about me, like my CV, projects, LinkedIn at [orsolic.tech](https://ivanorsolic.com), if you're interested in that!
 
 
 <p align="center">
